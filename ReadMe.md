@@ -11,4 +11,4 @@
 ## spacemacs 配置
 直接将配置文件拷到用户根目录下 /Users/yourname
 
-	
+	git clone https://github.com/cutwenty/spacemacs.d.git ~/
