@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : forlen
+# --
+for(var ${1:i} = ${2:0}, ${3:len} = ${4:collection}.length; $1 < $3; $1++) {
+  $0
+}

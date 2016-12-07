@@ -1,0 +1,6 @@
+# -*- mode: snippet; -*-
+# name: funn
+# --
+function ${1: ${2:name}}($3) {
+  $0
+}

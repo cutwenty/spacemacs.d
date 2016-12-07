@@ -1,0 +1,1 @@
+<input$1 type="${2:text}" value="$3">$4</input>$0

@@ -1,0 +1,4 @@
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name :link.import
+# --
+<link rel="import" href="$1"/>$0

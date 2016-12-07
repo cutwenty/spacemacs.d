@@ -1,0 +1,6 @@
+# -*- mode: snippet; -*-
+# name: funa
+# --
+function($1) {
+  $0
+}

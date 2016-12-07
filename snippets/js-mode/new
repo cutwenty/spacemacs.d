@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : new Class
+# --
+var ${1:name} = new ${2:Class}(${3});$0

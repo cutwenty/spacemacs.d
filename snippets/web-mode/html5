@@ -1,0 +1,13 @@
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : html5
+# --
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title></title>
+  </head>
+  <body>
+    $0
+  </body>
+</html>
