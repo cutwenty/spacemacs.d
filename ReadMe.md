@@ -12,3 +12,5 @@
 直接将配置文件拷到用户根目录下 /Users/yourname
 
 	git clone https://github.com/cutwenty/spacemacs.d.git ~/
+	
+最后要将 clone 下来的 spacemacs.d 文件夹重命名为 .spacemacs.d 文件
